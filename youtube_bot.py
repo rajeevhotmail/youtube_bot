@@ -52,18 +52,17 @@ def post_message(live_chat_id, message):
     print("Message posted:", message)
 
 # Specify the video ID of the live stream
-video_id = "HoNiHuYY080"  # Replace with the actual video ID
+video_id = "K5PaDWMsrps"  # Replace with the actual video ID
 
 # Pool of messages
 message_pool = [
-    "Hello, everyone!",
-    "This is a great live stream!",
-    "Keep up the awesome work!",
-    "Loving the content!",
-    "Just dropping by to say hi!",
-    "Amazing discussion here!",
-    "Thanks for sharing this with us!",
-    "Great vibes in the chat!",
+
+    "anonymous, do kodi ka troll hai",
+    "usske mutlab hai anonymous ki history naheen hai",
+    "na atta ",
+    "na patta?",
+
+
 ]
 
 # Main loop
